@@ -1,5 +1,3 @@
-/*font-family: 'Abel', sans-serif;*/
-/*font-family: 'Anton', sans-serif;*/
 .btn-circle.btn-xl {
     width: 100px;
     height: 100px;
@@ -9,8 +7,4 @@
     text-align: center;
     color: white;
     border: solid white 6px;
-}
-
-.badge{
-    color: black;
 }
